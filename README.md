@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Srinadh Bejawada</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=srinadhchowdary&label=Profile%20Views&color=0e75b6&style=flat" alt="srinadhchowdary" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=srinadhchowdary&theme=radical" alt="srinadhchowdary" />
-  </a>
-</p>
-
----
-
+<table>
+  <tr>
+    <td width="60%">
+      
 ### 🚀 About Me
 
 - 🔭 I’m currently working on a **Food Delivery Application**
@@ -20,6 +16,16 @@
 - 💬 Ask me about **Java, React, Full Stack Development**
 - 📫 Reach out for collaboration: **srinadh.bejawada@gmail.com**
 - 🧑‍💻 I'm currently interning at **Azentio Software** for the past 6 months
+
+    </td>
+    <td>
+      <img src="https://img.freepik.com/vecteurs-libre/hacker-exploitant-illustration-icone-dessin-anime-pour-ordinateur-portable-concept-icone-technologie-isole-style-bande-dessinee-plat_138676-2387.jpg?semt=ais_hybrid&w=740" 
+           alt="Developer Cartoon" 
+           width="250" 
+           style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
