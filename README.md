@@ -38,7 +38,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/hsrinadh-chowdary-bejawada-528660226/" target="_blank">
+  <a href="https://www.linkedin.com/in/srinadh-bejawada-528660226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.codechef.com/users/srinadh_9999" target="_blank">
