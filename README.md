@@ -13,7 +13,7 @@
 - 🌱 I’m learning **React** and **Spring Boot**
 - 💬 Ask me about **Java, React, Full Stack Development**
 - 📫 Reach out for collaboration: **srinadh.bejawada@gmail.com**
-- 🧑‍💻 I'm currently interning at **Azentio Software** for the past 6 months
+- 🧑‍💻 I'm currently working at **Azentio Software** as Software Engineer
 
     </td>
     <td>
